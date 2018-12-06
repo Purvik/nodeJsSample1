@@ -29,7 +29,7 @@ Open the `CMD` as an administrator then execute below commands,
 
 * For execution of our project on **Save Changes** install nodemon using command,
 
-    `npm install nodeman -g`
+    `npm install nodeman -g --save`
 
 ## Create a Project
 *   create a directory with your desired project name using command
