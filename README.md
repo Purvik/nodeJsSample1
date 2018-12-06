@@ -9,7 +9,7 @@ Open the `CMD` as an administrator then execute below commands,
 
     This will install framwork to create NodeJS application integrated with express already ready with some of the ready codes. And if its not installed globally in your system you can install any below required packages using written command. 
 
-* To install other required paKages for your project move to project location then execute specified commands
+* To install other required packages for your project. You can omit `--save` for global installation but if you want to integrate package directly to your project you can append `--save` while installing (only if your are executing command from project directory). 
 
     `npm install -g mongoose --save`
 
