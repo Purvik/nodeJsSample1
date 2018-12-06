@@ -1,6 +1,36 @@
 # nodeJsSample1
 * Developed As Demo Project to Learn NodeJs with MongoDB, Express, Mongoose
 
+Open the `CMD` as an administrator then execute below commands,
+
+* To install `express-generator` globally in your system
+
+    `npm install express-generator --save`
+
+    This will install framwork to create NodeJS application integrated with express already ready with some of the ready codes. And if its not installed globally in your system you can install any below required packages using written command. 
+
+* To install other required paKages for your project move to project location then execute specified commands
+
+    `npm install -g mongoose --save`
+
+    `npm install -g express --save`
+
+    `npm install -g body-parser --save`
+
+    `npm install -g cookie-parser --save`
+
+    `npm install -g debug --save`
+
+    `npm install -g http-errors --save`
+
+    `npm install -g jade --save`
+
+    `npm install -g morgan --save`
+
+* For execution of our project on **Save Changes** install nodemon using command,
+
+    `npm install nodeman -g`
+
 ## Create a Project
 *   create a directory with your desired project name using command
 
@@ -10,10 +40,6 @@
 
     `cd nodeJsSample1`
 
-* To install `express-generator` globally in your system
-
-    `npm install express-generator --save`
-
 *   execute command
 
     `express`
@@ -21,19 +47,6 @@
     This will create basic required files and create `package.jason` file. All the information about your project will be there in `package.json` file.
 
 ### Installation of Required Components/Libraries/Modules
-
-Open the `CMD` and go to your project folder locatoin then execute below commands,
-* To install required paKages
-
-    `npm install mongoose --save`
-
-    `npm install express --save`
-
-    `npm install body-parser --save`
-
-* For execution of our project on **Save Changes** install nodemon using command,
-
-    `npm install nodeman -g`
 
 * To Run this Project first time (your default entry file **app.js** or **index.js**)
 
