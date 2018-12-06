@@ -1,0 +1,2 @@
+#Ignore node_modules that we have
+node_modules/
