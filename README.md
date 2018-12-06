@@ -4,18 +4,21 @@
 ## Create a Project
 *   create a directory with your desired project name using command
 
-    `mkdir demoApp1`
+    `mkdir nodeJsSample1`
 
 *   switch to that folder using 
 
-    `cd demoApp1`
+    `cd nodeJsSample1`
+
+* To install `express-generator` globally in your system
+
+    `npm install express-generator --save`
 
 *   execute command
 
-    `npm init`
+    `express`
 
-    This will take basic information for our required project like name, author, git link etc while creating `package.jason` file. All the information that you provide here will be there in `package.json` file.
-
+    This will create basic required files and create `package.jason` file. All the information about your project will be there in `package.json` file.
 
 ### Installation of Required Components/Libraries/Modules
 
